@@ -2,7 +2,7 @@
   "name": "synth-index-cryptoapis-adapter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/smartcontractkit/synth-index-coinpaprika-adapter.git",
+  "repository": "https://github.com/smartcontractkit/synth-index-cryptoapis-adapter.git",
   "author": "Jonas Hals <jonas@smartcontract.com>",
   "license": "MIT",
   "scripts": {
